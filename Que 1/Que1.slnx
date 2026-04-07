@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Churros/Churros.csproj" />
+  <Project Path="OrderTest/OrderTest.csproj" />
+</Solution>
